@@ -1,0 +1,11 @@
+*.iml
+*.idea
+*/target/*
+*.log*
+/common/src/main/gen/
+*.DS_Store
+*.zip
+*.jar
+*.deprected
+**/target/*
+*backup
