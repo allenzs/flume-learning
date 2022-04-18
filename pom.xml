@@ -6,7 +6,11 @@
 
     <groupId>com.allen</groupId>
     <artifactId>flume-learning</artifactId>
+    <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>flume-1.7</module>
+    </modules>
 
 
 </project>
